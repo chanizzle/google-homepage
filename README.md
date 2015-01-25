@@ -1,2 +1,2 @@
 # google-homepage
-odin-project - Web Development 101
+The Odin Project - theodinproject.com
